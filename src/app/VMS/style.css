@@ -1,0 +1,200 @@
+body{
+  font-family: 'Poppins' !important;
+}
+
+.buttoRootA {
+    background-color: #2A4556 !important;
+    color: white !important;
+    border-radius: 10px !important;
+    font-size: 14px  !important;
+    text-transform: none !important;
+    padding: 10px !important;
+    margin: 5px !important;
+    margin-right: 15px !important;
+    width: 100%;
+    font-weight:500;
+    box-shadow: 0px 2px 6px rgba(66, 80, 92, 0.3);
+  }
+  .buttoRootB{
+    background-color: #457B9D !important;
+    color: white !important;
+    border-radius: 7px !important;
+    font-size: 12px  !important;
+    text-transform: none !important;
+    padding: 8px !important;
+    margin: 5px !important;
+    margin-right: 15px !important;
+    width: 30%;
+    font-weight:500;
+    box-shadow: 0px 2px 6px rgba(66, 80, 92, 0.3);
+  }
+  .submitBtn{
+    background-color: #42505C !important;
+    box-shadow: 0px 3px 6px rgba(66, 80, 92, 0.3) !important;
+    border-radius: 10px !important;
+    width: 100% !important;
+    color: white !important;
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+  }
+  .doc{
+    color: #96979C;
+    text-align: center;
+    margin: 20px;
+  }
+  .confirm{
+    padding: 25px !important;
+    box-shadow: 0px 2px 6px rgba(66, 80, 92, 0.3);
+  }
+  .visit{
+    color: #96979C;
+    text-align: center;
+    font-family: 'Poppins' !important;
+    margin: 20px 20px 20px 20px !important;
+  }
+  .txt{
+    color: #96979C;
+    text-align: center;
+  }
+  .cards{
+    display: flex;
+    padding: 10px;
+    flex-direction: row;
+    font-size: 12px;
+    box-shadow: 0px 4px 13px rgba(0, 0, 0, 0.12);
+     border-radius: 8px;
+     align-items: center;
+  }
+  .backbtn{
+    background-color:#1B3043 !important ;
+    color: white !important;
+    border-radius: 7px !important;
+    font-size: 12px  !important;
+    text-transform: none !important;
+    padding: 8px !important;
+    margin: 5px !important;
+    margin-right: 15px !important;
+    width: 30%;
+    font-weight:500;
+    box-shadow: 0px 2px 6px rgba(66, 80, 92, 0.3);
+  }
+.para{
+    height: auto !important;
+}
+.cardA{
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    font-size: 12px;
+    box-shadow: 0px 4px 13px rgba(0, 0, 0, 0.12);
+    border-radius: 12px;
+    align-items: center;
+    float: left;
+    align-items: flex-start;
+    width: 100%;
+    margin-top: 20px;
+  }
+  .shadow{
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1) !important;
+  }
+  .cardB{
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    font-size: 12px;
+    box-shadow: 0px 4px 13px rgba(0, 0, 0, 0.12);
+    border-radius: 12px;
+    justify-content: center;
+    float: left;
+    height: 100px;
+    align-items:center;
+    width: 100%;
+    margin-top: 20px;
+    border:1px dashed #202E43;
+  }
+  .titlee{
+    color: rgba(32, 46, 67, 0.7);
+    font-size: 14px;
+    font-weight: 500 !important;
+    
+  }
+  .val{
+    font-weight: 400;
+    font-size: 16px;
+  }
+  .mt{
+    border-bottom: 1px solid #E4E4E4 !important; 
+    width: 100%;
+  }
+.ques{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #2A4556;
+    margin: 25px 0px 25px 0px;
+}
+.btnRootqq{
+  background: #06797E !important;
+  box-shadow: 0px 3px 6px rgba(66, 80, 92, 0.3) !important;
+  border-radius: 10px !important;
+  color: white !important;
+  width:100% !important;
+  margin-top: 20px !important;
+
+}
+.thank{
+  display: flex;
+  font-weight: 600;
+font-size: 20px;
+text-align: center;
+}
+.names{
+  background-color: #DAEEEF;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  display: flex;
+  padding: 10px;
+  border-radius: 10x;
+  box-shadow: 0px 3px 6px rgba(66, 80, 92, 0.3) !important;
+  justify-content: space-between;
+
+}
+.fex{
+  display:flex;
+  width: 100%;
+  justify-content: space-between;
+  color: #202E43;
+  font-weight: 500;
+  font-size: 12px;
+  align-items: center;
+  
+}
+.css-1kyf4n9-MuiTypography-root,.css-ahj2mt-MuiTypography-root,.css-1rwt2y5-MuiButtonBase-root-MuiButton-root{
+font-family: 'Poppins' !important;
+}
+hr{
+  border: 1px solid #E4E4E4 !important;
+  width: 100%;
+}
+.cardC{
+  background-color: #457B9D;
+  border-radius: 8px;
+  color: white;
+}
+.fex2{
+  display:flex;
+  width: 100%;
+  justify-content: space-between;
+  font-weight: 400;
+  font-size: 16px;
+  align-items: center;
+  padding: 10px;
+}
+.btnCheckOut{
+  background-color: #D32F2F !important;
+  width: 100% !important;
+  box-shadow: 0px 3px 6px rgba(66, 80, 92, 0.3) !important;
+border-radius: 10px !important;
+color: white !important;
+}
